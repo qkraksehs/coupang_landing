@@ -1,0 +1,114 @@
+/* 쿠팡 랜딩사이트 style.css */
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans KR',sans-serif;  
+}
+
+.logo1 {
+    width: 150px;
+    margin-right: 1000px;   
+}
+
+.text-bold {
+    font-weight: 500;
+}
+
+.color-blue {
+    color: #50a3d9;
+}
+
+h2 {
+    font-size: 50px;
+   font-weight: 400;
+    margin: 0;  
+}
+
+p {
+    font-size: 24px;
+    font-weight: 400;
+}
+
+#sextion1 {
+    width: auto;
+    background-color: #ededed;
+    text-align: center;
+    color: #333;
+    padding-top: 20px  
+}
+
+.text-green {
+    color: #92ba3e;
+}
+
+#sextion2 {
+    width: auto;
+    background-color: #333;
+    color: #ededed;
+    text-align: center;  
+}
+
+#sextion2 h2 {
+    padding-top: 80px;
+}
+
+#sextion2 p {
+    margin-top: 20px;
+}
+
+#sextion3 {
+    width: auto;
+    background-color: #50a3d9;
+    padding-top: 67px;
+    padding-bottom: 0px;
+    text-align: center;
+    color: #ededed;
+}
+
+#sextion3 img {
+    margin-bottom: 40px;
+}
+
+#sextion3 h2 {
+    text-shadow: 1px 1px 10px #666;
+}
+
+#footer h2 {
+    font-size: 36px;
+}
+
+#footer {
+    background-color: #ededed;
+    color: #333;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    width: auto;  
+}
+
+#footer a img {
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+}
+
+.logo2 {
+    width: 150px; 
+}
+
+.brown {
+    color: #521110;
+}
+
+.red {
+    color: #d73227;
+}
+
+.yellow {
+    color: #e99923;
+}
+
+.blue {
+    color: #50a3d9;
+}
